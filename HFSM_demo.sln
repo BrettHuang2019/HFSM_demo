@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{ca0890a9-7d5f-525c-00d8-b8470226c638}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityHFSM", "UnityHFSM.csproj", "{5e3649ee-6c98-1fd9-09e2-6ac657e3acae}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ca0890a9-7d5f-525c-00d8-b8470226c638}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ca0890a9-7d5f-525c-00d8-b8470226c638}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ca0890a9-7d5f-525c-00d8-b8470226c638}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ca0890a9-7d5f-525c-00d8-b8470226c638}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5e3649ee-6c98-1fd9-09e2-6ac657e3acae}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5e3649ee-6c98-1fd9-09e2-6ac657e3acae}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5e3649ee-6c98-1fd9-09e2-6ac657e3acae}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5e3649ee-6c98-1fd9-09e2-6ac657e3acae}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
